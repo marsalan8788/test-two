@@ -10,6 +10,10 @@ variable "three" {
   type = bool
 }
 
+variable "four" {
+  type = bool
+}
+
 variable "five" {
   type = bool
 }
