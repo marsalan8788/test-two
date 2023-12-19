@@ -7,5 +7,9 @@ variable "two" {
 }
 
 variable "three" {
-  type = string
+  type = bool
+}
+
+variable "five" {
+  type = bool
 }
