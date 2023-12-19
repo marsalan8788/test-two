@@ -9,3 +9,7 @@ variable "two" {
 variable "three" {
   type = string
 }
+
+variable "four" {
+  type = bool
+}
