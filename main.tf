@@ -15,6 +15,6 @@ resource "aws_instance" "simple_ec2" {
   }
 }
 
-variable "test" {
-  type = string
+variable "test2" {
+  type = bool
 }
