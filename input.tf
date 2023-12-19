@@ -21,3 +21,7 @@ variable "five" {
 variable "six" {
   type = bool
 }
+
+variable "seven" {
+  type = bool
+}
