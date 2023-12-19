@@ -14,3 +14,7 @@ resource "aws_instance" "simple_ec2" {
     Name = "Simple EC2 Instance"
   }
 }
+
+variable "test" {
+  type = string
+}
