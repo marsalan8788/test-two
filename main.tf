@@ -18,3 +18,7 @@ resource "aws_instance" "simple_ec2" {
 variable "test2" {
   type = bool
 }
+
+variable "main" {
+  type = bool
+}
