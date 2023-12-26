@@ -25,3 +25,7 @@ variable "six" {
 variable "seven" {
   type = bool
 }
+
+variable "testing-branch" {
+  type = bool
+}
