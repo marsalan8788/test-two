@@ -19,6 +19,6 @@ variable "test2" {
   type = bool
 }
 
-variable "testing-branch" {
+variable "main" {
   type = bool
 }
